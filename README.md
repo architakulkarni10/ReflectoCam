@@ -52,6 +52,8 @@ It contains:
 - Compared ground truth masks with predicted masks.  
 - Visualized segmentation outputs using **Matplotlib**.
 
+![ReflectoCam Methodology](https://github.com/architakulkarni10/ReflectoCam/blob/main/ReflectoCam_Methodology.png)
+
 ---
 
 ## Technologies Used
